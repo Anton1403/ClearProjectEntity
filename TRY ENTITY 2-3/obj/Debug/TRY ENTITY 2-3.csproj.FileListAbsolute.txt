@@ -1,0 +1,12 @@
+C:\Users\anton.belenik\source\repos\TRY ENTITY 2-3\TRY ENTITY 2-3\bin\Debug\TRY ENTITY 2-3.exe.config
+C:\Users\anton.belenik\source\repos\TRY ENTITY 2-3\TRY ENTITY 2-3\bin\Debug\TRY ENTITY 2-3.exe
+C:\Users\anton.belenik\source\repos\TRY ENTITY 2-3\TRY ENTITY 2-3\bin\Debug\TRY ENTITY 2-3.pdb
+C:\Users\anton.belenik\source\repos\TRY ENTITY 2-3\TRY ENTITY 2-3\bin\Debug\EntityFramework.dll
+C:\Users\anton.belenik\source\repos\TRY ENTITY 2-3\TRY ENTITY 2-3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\anton.belenik\source\repos\TRY ENTITY 2-3\TRY ENTITY 2-3\bin\Debug\EntityFramework.xml
+C:\Users\anton.belenik\source\repos\TRY ENTITY 2-3\TRY ENTITY 2-3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\anton.belenik\source\repos\TRY ENTITY 2-3\TRY ENTITY 2-3\obj\Debug\TRY ENTITY 2-3.csprojAssemblyReference.cache
+C:\Users\anton.belenik\source\repos\TRY ENTITY 2-3\TRY ENTITY 2-3\obj\Debug\TRY ENTITY 2-3.csproj.CoreCompileInputs.cache
+C:\Users\anton.belenik\source\repos\TRY ENTITY 2-3\TRY ENTITY 2-3\obj\Debug\TRY ENTITY 2-3.csproj.CopyComplete
+C:\Users\anton.belenik\source\repos\TRY ENTITY 2-3\TRY ENTITY 2-3\obj\Debug\TRY ENTITY 2-3.exe
+C:\Users\anton.belenik\source\repos\TRY ENTITY 2-3\TRY ENTITY 2-3\obj\Debug\TRY ENTITY 2-3.pdb
